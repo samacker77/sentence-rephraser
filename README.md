@@ -1,2 +1,2 @@
-# sentence-rephraser
-Sentence rephrasing
+# NLG
+Paraphrasing
