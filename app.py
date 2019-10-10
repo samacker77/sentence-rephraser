@@ -2,7 +2,7 @@ import pandas as pd
 from flask import Flask, render_template, url_for, request
 from flask_bootstrap import Bootstrap
 from googletrans import Translator
-# from similarity import model_similarity
+from similarity import model_similarity
 
 app = Flask(__name__)
 Bootstrap(app)
