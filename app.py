@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 from flask import Flask, render_template, url_for, request
 from flask_bootstrap import Bootstrap
 from googletrans import Translator
